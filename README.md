@@ -1,4 +1,4 @@
-### Hi there •ᴗ•
+### Good news, everyone! •ᴗ•
 I'm a Computer Engineering student who likes to work on AI/Software Developing. 
 
 - 🔭 I’m currently working on Python/Django projects.
